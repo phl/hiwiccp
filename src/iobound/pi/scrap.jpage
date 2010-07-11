@@ -1,0 +1,15 @@
+
+
+long x = 100;
+long y = 3;
+
+return 5 * (double)x/y;
+
+(double)x/y;
+
+java.math.Random cannot be resolved to a typenew java.util.Random().nextLong();
+
+
+
+(long) 4498475528304569955
+(long) 7439250632654999677
